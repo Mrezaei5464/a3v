@@ -1,0 +1,2 @@
+node1:
+trojan://81KfLX8wSN@a3.veryfastnet.info:12772#gholami8260%2Fa3%2F2511
